@@ -1,0 +1,6 @@
+n=int(input())
+a=str(n)
+b=list(a)
+c=max(b)
+d=int(c)
+print(d)
